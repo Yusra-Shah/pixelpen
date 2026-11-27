@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# editors and OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# local tool files
+.claude/
+CLAUDE.md
+*.local.json
+
+# generated output
+*.svg
